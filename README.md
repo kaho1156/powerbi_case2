@@ -1,3 +1,5 @@
+Data source are those 3 csv files naming 'orders', 'people' and 'return'
+
 This is the globalstore profit dashboard built from powerquery and using dax.
 
 Dashboard:
